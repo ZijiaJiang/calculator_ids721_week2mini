@@ -1,6 +1,2 @@
-# rust-new-project-template
-A good starting point for a new Rust project
-
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+# Week 2 Mini project
+A command line tool that takes two number and return their sum.
